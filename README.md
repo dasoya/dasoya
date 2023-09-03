@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Call me Daso --- ya! 
+
+![image](https://github.com/dasoya/dasoya/assets/66422476/80d69e29-03e6-44ee-8d56-6a0204930ef1)
 
 <!--
 **dasoya/dasoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasoya&show_icons=true&theme=radical)
