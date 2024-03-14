@@ -6,7 +6,8 @@ And I have a huge interest on Computer Graphics and streamlining a process with 
 
 It's my resume! Thanks to your interest.
 
-[Daso Jung 20489af1bf54440fbce1f0c9996d2137.pdf](https://github.com/dasoya/dasoya/files/14595407/Daso.Jung.20489af1bf54440fbce1f0c9996d2137.pdf)
+<img width="607" alt="스크린샷 2024-03-14 오전 10 10 06" src="https://github.com/dasoya/dasoya/assets/66422476/ac9477a4-53b8-4d68-b97f-21c5e812a0a1">
+<img width="531" alt="스크린샷 2024-03-14 오전 10 10 12" src="https://github.com/dasoya/dasoya/assets/66422476/ea663235-6d92-4b03-b076-d57875f2292d">
 
 
 <!--
