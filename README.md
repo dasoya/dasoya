@@ -1,6 +1,13 @@
-### Hi there 👋 Call me Daso --- ya! 
+### Hi there 👋 Call me Dasoya! 
 
-![image](https://github.com/dasoya/dasoya/assets/66422476/80d69e29-03e6-44ee-8d56-6a0204930ef1)
+I'm currently studying at EWHA Womans University.
+And I have a huge interest on Computer Graphics and streamlining a process with AI. 
+
+
+It's my resume! Thanks to your interest.
+
+[Daso Jung 20489af1bf54440fbce1f0c9996d2137.pdf](https://github.com/dasoya/dasoya/files/14595407/Daso.Jung.20489af1bf54440fbce1f0c9996d2137.pdf)
+
 
 <!--
 **dasoya/dasoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
