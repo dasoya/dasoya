@@ -7,6 +7,8 @@ I worked at Digital Human Solution Team in NCSOFT as an intern!
 
 **Awards**
 
+**2024 Swift Student Challenge Winner** 
+
 **NC Fellowship AI Game Track** (Jul 2021 - Feb 2022)
 - 3rd place
 
