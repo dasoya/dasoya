@@ -21,10 +21,7 @@ I worked at Digital Human Solution Team in NCSOFT as an intern!
 - 3rd place among 1000 participants
 
 
-It's my resume! Thank you for caring.
 
-<img width="607" alt="스크린샷 2024-03-14 오전 10 10 06" src="https://github.com/dasoya/dasoya/assets/66422476/ac9477a4-53b8-4d68-b97f-21c5e812a0a1">
-<img width="531" alt="스크린샷 2024-03-14 오전 10 10 12" src="https://github.com/dasoya/dasoya/assets/66422476/ea663235-6d92-4b03-b076-d57875f2292d">
 
 
 <!--
